@@ -1,0 +1,1 @@
+rvm use Ruby 2.1.0@tic_tac_toe_rails --create
