@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby "2.0.0"
 
-gem "activerecord", "~> 4.0.1"
+gem "activerecord", "~> 4.0.2"
 gem 'rails', '4.0.1'
 gem 'sass-rails', '~> 4.0.0'
 
