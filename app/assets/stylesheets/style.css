@@ -1,4 +1,4 @@
-*{  
+draw-board*{  
    margin:0;  
    padding:0;  
 } 
@@ -27,7 +27,7 @@ h1{
     color: white;
 }
 .robot{
-    background:url(tictacbg.png);
+    background:url('/assets/tictacbg.png');
     width:465px;
     height: 423px;
     
