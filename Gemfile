@@ -5,7 +5,6 @@ gem "activerecord", "~> 4.0.1"
 gem 'rails', '4.0.1'
 gem 'sass-rails', '~> 4.0.0'
 
-
 group :test do
   gem 'selenium-webdriver'
   gem 'capybara'
