@@ -4,12 +4,13 @@ draw-board*{
 } 
 
 body{
-    background:url(bg.jpg);
+    background:url('blackboard.png');
     background-color: black;
     font-family: 'Indie Flower', cursive;
     text-shadow: 0 1px 0 rgba(0,0,0,.3); 
     -webkit-font-smoothing: antialiased;
-
+    background-repeat:no-repeat;
+    background-position:center; 
 }
 
 
@@ -19,15 +20,15 @@ body{
 
 }
 
-h1{
-    font-size: 75px;
+h3{
+    font-size: 3em;
     text-align: center;
     padding-left: 30px;
     line-height: 1.7em;
     color: white;
 }
 .robot{
-    background:url('/assets/tictacbg.png');
+    background:url('tictacbg.png');
     width:465px;
     height: 423px;
     
